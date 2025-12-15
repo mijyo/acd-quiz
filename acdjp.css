@@ -1,14 +1,14 @@
 body {
     font-family: Poppins, sans-serif;
-    background-color: #efefef;
   }
   
   #quiz {
-    max-width: 805px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 20px;
     background-color: #fff;
     border-radius: 12px;
+    border-color: #0172A2;
   }
   
   h1 {
